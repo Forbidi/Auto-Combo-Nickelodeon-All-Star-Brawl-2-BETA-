@@ -5,13 +5,16 @@
 # Auto-Combo-Nickelodeon-All-Star-Brawl-2-BETA-
 Nickelodeon All-Star Brawl 2 is an external tool designed to enhance your experience in the game. It includes features such as auto combo, stream proof, and gameplay mechanics take from CPU LVL9. Additionally, the campaign mode features God Mode and adjustable damage.
 
+[![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/pQZYd8sGqF)
+![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)
 
-## Features
+## Features Online
 
 - **Auto Combo**.
 - **Stream Proof:** Ensure your gameplay remains undetected while streaming.
 - **Fighting Mechanics:** mechanics take from CPU LVL9 for now.
-### CAMPAIGN:
+
+## CAMPAIGN:
 - **God Mode:** Enhance your campaign experience with invincibility.
 - **Damage Settings:** Adjust the damage output to suit your playstyle.
 
