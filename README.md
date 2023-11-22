@@ -6,7 +6,7 @@
 Nickelodeon All-Star Brawl 2 is an external tool designed to enhance your experience in the game. It includes features such as auto combo, stream proof, and gameplay mechanics take from CPU LVL9. Additionally, the campaign mode features God Mode and adjustable damage.
 
 [![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/pQZYd8sGqF)
-![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.8.1-blue.svg)
 
 ## Features Online
 
